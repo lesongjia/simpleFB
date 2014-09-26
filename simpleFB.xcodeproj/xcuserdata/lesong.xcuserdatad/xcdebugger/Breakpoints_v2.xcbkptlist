@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "simpleFB/ViewController.swift"
+            timestampString = "433380722.112657"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "saveUser(_:name:email:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "simpleFB/UserDetailViewController.swift"
+            timestampString = "433303389.695315"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "initWithUser()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "simpleFB.UserDetailViewController.initWithUser (simpleFB.UserDetailViewController)() -&gt; ()"
+                  moduleName = "simpleFB"
+                  urlString = "file:///Users/lesong/xcode_workspace/simpleFB/simpleFB/UserDetailViewController.swift"
+                  timestampString = "433303389.698956"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1251">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "simpleFB.UserDetailViewController.initWithUser (simpleFB.UserDetailViewController)() -&gt; ()"
+                  moduleName = "simpleFB"
+                  urlString = "file:///Users/lesong/xcode_workspace/simpleFB/simpleFB/UserDetailViewController.swift"
+                  timestampString = "433303389.699253"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1378">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "simpleFB/AllUsersTableViewController.swift"
+            timestampString = "433377277.21766"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "connectionDidFinishLoading(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "simpleFB.AllUsersTableViewController.connectionDidFinishLoading (simpleFB.AllUsersTableViewController)(Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSURLConnection&gt;) -&gt; ()"
+                  moduleName = "simpleFB"
+                  urlString = "file:///Users/lesong/xcode_workspace/simpleFB/simpleFB/AllUsersTableViewController.swift"
+                  timestampString = "433304218.090815"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "2515">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "simpleFB.AllUsersTableViewController.(connectionDidFinishLoading (simpleFB.AllUsersTableViewController) -&gt; (Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSURLConnection&gt;) -&gt; ()).(closure #1)"
+                  moduleName = "simpleFB"
+                  urlString = "file:///Users/lesong/xcode_workspace/simpleFB/simpleFB/AllUsersTableViewController.swift"
+                  timestampString = "433304218.091018"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "reabstraction thunk helper from @callee_owned () -&gt; (@unowned ()) to @callee_unowned @objc_block () -&gt; (@unowned ())"
+                  moduleName = "simpleFB"
+                  urlString = "file:///Users/lesong/xcode_workspace/simpleFB/simpleFB/AllUsersTableViewController.swift"
+                  timestampString = "433304218.091194"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
